@@ -7,5 +7,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/nadiannis" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@nadiannis" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-DD0000?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://twitter.com/nadiannis" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/nadiannis" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
 </div>
